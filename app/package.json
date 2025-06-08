@@ -1,0 +1,13 @@
+{
+  "name": "automated-node-ci",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for CI/CD pipeline using GitHub Actions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
