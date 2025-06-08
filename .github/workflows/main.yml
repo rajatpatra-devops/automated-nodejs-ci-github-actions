@@ -28,6 +28,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-         tags: rajattheking/devops-node-ci:latest
+        tags: rajattheking/devops-node-ci:latest
+
 
 
